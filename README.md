@@ -27,8 +27,12 @@ API for working with NASA exoplanet data.
 
 ## Tech stack
 
-Microsoft SQL Server 2022
-C#/.NET 7
-ASP.NET Web API
-Entity Framework (database first)
+* Microsoft SQL Server 2022
+* C#/.NET 7
+* ASP.NET Web API
+* Entity Framework (database first)
+
+## Diagrams
+
+![Data model](db-diagram.png)
 
